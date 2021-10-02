@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// https://edabit.com/challenge/i7gQkdYrx4yyW7uLp
+
 void printArray(int*, int);
 
 int simonSays(int *, int *, int);
